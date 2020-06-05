@@ -1,5 +1,2 @@
+egg
 milk
-cheese
-eggs
-beer
-apples
